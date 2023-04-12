@@ -1,6 +1,6 @@
-# Title of Your Project
+# Dr. Bart's Example Lesson 19
 
-**CISC320 Spring 2023 Lesson 14 - Graph Applications**
+**CISC320 Spring 2023 Lesson 19 - Graph Applications**
 
 Group Members:
 * First member (email)
